@@ -1,6 +1,7 @@
 Name:                newtyper 
 Version:             0.1
 Synopsis:            Extra functions for the Control.Newtype typeclass
+Description:         Extra functions for the Control.Newtype typeclass
 Homepage:            https://github.com/techtangents/Newtyper
 License:             BSD3
 License-file:        LICENSE
